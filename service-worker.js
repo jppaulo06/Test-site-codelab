@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f4643eb7ea2f92fd2316cbe8f9ee4502.js"
+  "/precache-manifest.2570988c5ce91a8e286e0e04b10f8ab3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "uspcodelab"});
